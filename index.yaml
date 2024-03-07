@@ -9,6 +9,6 @@ entries:
     name: helm
     type: application
     urls:
-    - https://github.com/vagnerfls/helm/helm-0.1.0.tgz
+    - https://github.com/vagnerfls/helm/blob/test/helm-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-07T14:48:40.5776113-03:00"
