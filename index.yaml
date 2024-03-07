@@ -10,5 +10,6 @@ entries:
     type: application
     urls:
     - https://vagnerfls.github.io/helm/helm-0.1.0.tgz
+    - https://vagnerfls.github.io/helm/helm-0.2.0.tgz
     version: 0.1.0
 generated: "2024-03-07T14:48:40.5776113-03:00"
